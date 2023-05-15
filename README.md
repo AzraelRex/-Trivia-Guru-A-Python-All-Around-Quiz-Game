@@ -7,8 +7,11 @@ Trivia Guru is a great way to learn new things and have fun at the same time. It
 Here are some of the features of this game:
 
 -A variety of topics to choose from
+
 -Multiple choice questions
+
 -A fun and engaging interface
+
 
 Trivia Guru is a great way to learn new things, have fun, and improve your memory. It is a perfect game for people of all ages.
 
