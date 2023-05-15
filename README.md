@@ -70,7 +70,6 @@ The code is organized into the following functions:
 main() - the main function of the program
 
 
-Hopefully you will enjoy learning/testing my project, Bye!!!
 
 
 generate_questions() - generates a list of questions
@@ -83,4 +82,8 @@ check_answer() - checks the user's answer and returns True if it is correct, Fal
 
 display_score() - displays the user's score
 
+
+
+
+Hopefully you will enjoy learning/testing my project, Bye!!!
 
